@@ -1,12 +1,5 @@
 ## Hello, I'm [DP](https://instagram.com/denssptraa) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
 
-<p align="center">
-<img src=https://i.ibb.co/fkXKKHH/dnsnew.jpg" alt="20210103-132024" border="0">
-</p>
-<p align="center">
-<a href="https://github.com/denisputraa">
-</p>
-
 <img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
 
 :page_with_curl: I'm currently learning:
