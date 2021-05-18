@@ -1,4 +1,4 @@
-## Hello, I'm [Denis Putra](https://instagram.com/denssptraa)
+## Hello, I'm [denis-putra](https://instagram.com/denssptraa)
 
 <img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
 
